@@ -1,3 +1,8 @@
+#reference
+> - https://codesandbox.io/s/7b93j
+> - https://www.youtube.com/watch?v=E6KHm-c7-gY&list=PLXXZmA7uepCGpvv62EjdFwImLcNisSvg8&index=7
+> - https://github.com/uyanik13/nuxt-3-ecomerce-pinia
+
 # Nuxt 3 Awesome Starter
 a Nuxt 3 starter template or boilerplate with a lot of useful features. and integrated with TailwindCSS 3.  
 
