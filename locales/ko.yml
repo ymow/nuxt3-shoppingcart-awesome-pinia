@@ -28,6 +28,10 @@ pages:
     reset: 초기화
     identity: 신원
     full_name: 전체 이름
+  products:
+    title: 상품
+    cart: 쇼핑 카트
+    list: 상품 목록
   getting-started:
     nav: 시작하기
     title: 시작하기

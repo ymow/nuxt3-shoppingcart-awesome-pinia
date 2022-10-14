@@ -28,6 +28,10 @@ pages:
     reset: mengatur ulang
     identity: identitas
     full_name: nama lengkap
+  products:
+    title: products
+    cart: carts
+    list: product list
   getting-started:
     nav: mulai
     title: mulai

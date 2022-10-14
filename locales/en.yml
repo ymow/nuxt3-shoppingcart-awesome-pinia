@@ -26,8 +26,12 @@ pages:
     increment: increment
     decrement: decrement
     reset: reset
-    identity: identity
+    identity: aa
     full_name: fullName
+  products:
+    title: products
+    cart: carts
+    list: product list
   getting-started:
     nav: getting started
     title: getting started
@@ -57,6 +61,9 @@ pages:
       advanced_dir_listing:
         title: directory listing
         description: if no index file is present within a directory, the directory contents will be displayed.
+  cart:
+    nav: carts
+    title: carts
   dashboard:
     nav: dashboard
     title: dashboard

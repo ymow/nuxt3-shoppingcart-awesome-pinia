@@ -28,6 +28,10 @@ pages:
     reset: リセット
     identity: 身元
     full_name: フルネーム
+  products:
+    title: 製品
+    cart: ショッピングカート
+    list: 製品リスト
   getting-started:
     nav: 入門
     title: 入門
